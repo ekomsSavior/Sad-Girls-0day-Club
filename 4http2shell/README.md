@@ -16,7 +16,7 @@ I found a path from a fresh, unauthenticated HTTP session to command execution
 as the Cacti server user in four requests. No login. No valid API key. No
 phishing. Just four HTTP requests against the default guest surface.
 
-This is 4HTTP2ROOT.
+This is 4HTTP2SHELL.
 
 ## As we read on let us remember companies like Microslop, Amazon, alibaba, Huawei and many others use Cacti:
 
@@ -230,7 +230,7 @@ non-numeric value, and most teams do not alert on that.
 
 Four requests. No credentials. Root on the monitoring server.
 
-That is 4HTTP2ROOT.
+That is 4HTTP2SHELL.
 
 — ek0ms savi0r
 Church of Malware
